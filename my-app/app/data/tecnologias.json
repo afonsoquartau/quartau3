@@ -1,0 +1,7 @@
+[
+    {"title": "HTML", "imagem": "", "description": "Linguagem de Markup", "rating": 8 },
+    {"title": "CSS", "imagem": "", "description": "Para a formatacao das paginas", "rating": 7 },
+    {"title": "Tailwind CSS", "imagem": "", "description": "", "rating": 6 },
+    {"title": "JavaScript", "imagem": "", "description": "Para dar inteligencia as paginas", "rating": 5 },
+    {"title": "Typescript", "imagem": "", "description": "Outra implementacao do JavaScript", "rating": 0 }
+]
